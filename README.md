@@ -13,3 +13,5 @@
 
 
 #### Caso não queria fazer nada disso e estiver usando um android pode instalar a build que consta nesse repositório aqui 
+
+#### Ahh, a UI usada está aqui nesse link: https://www.figma.com/community/file/1069288586648976820 e ela foi criada pelo: iqbal syafiq @iqbalsyafiq
